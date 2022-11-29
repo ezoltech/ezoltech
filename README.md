@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on any kinds of tech projects
 - 💬 Ask me about any tech issues
 - 📫 How to reach me: https://t.me/ezoltech
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezoltech&theme=transparent&show_icons=true)
 
