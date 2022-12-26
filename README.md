@@ -35,8 +35,8 @@
        <a href="https://visualstudio.microsoft.com/vs/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="80" height="80"/></a>
        <a href="https://www.jetbrains.com/rider/download/"><img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" width="80" height="80"/></a>
        <a href="https://www.jetbrains.com/pycharm/download/#section=windows"><img src="https://ih1.redbubble.net/image.3783345238.0009/st,small,507x507-pad,600x600,f8f8f8.jpg"width="80" height="80"/></a>
-       <a href="https://www.sublimetext.com/3"><img src="https://banner2.cleanpng.com/20190618/xbr/kisspng-sublime-text-portable-network-graphics-transparenc-sublime-text-transparent-amp-png-clipart-free-do-5d098f66bcb4d9.044880841560907622773.jpg"/></a>
-       <a href="https://atom.en.uptodown.com/windows"><img src="https://e7.pngegg.com/pngimages/808/119/png-clipart-atom-github-visual-studio-code-text-editor-computer-icons-github-text-logo.png"/></a>
+       <a href="https://www.sublimetext.com/3"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="80" height="80"/></a>
+       <a href="https://atom.en.uptodown.com/windows"><img src="https://w7.pngwing.com/pngs/527/795/png-transparent-gray-and-white-logo-text-brand-apps-atom-text-logo-plain-text-thumbnail.png" width="80" height="80"/></a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
