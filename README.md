@@ -66,7 +66,7 @@
 
 <p align="left">
 
-<a href = "https://t.me/ezoltech"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"/></a>
+<a href = "https://t.me/ezoltech"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="80" height="80" /></a>
 <a href = "https://twitter.com/thegamer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/ezolbest/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
