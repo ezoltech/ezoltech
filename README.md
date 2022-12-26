@@ -57,8 +57,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ezoltech/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ezoltech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
@@ -66,15 +64,15 @@
 
 <p align="left">
 
-<a href = "https://t.me/ezoltech"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="80" height="80" /></a>
-<a href = "https://twitter.com/thegamer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="80" height="80"/></a>
-<a href = "https://www.instagram.com/ezolbest/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="80" height="80"/></a>
+<a href = "https://t.me/ezoltech"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="40" height="40" /></a>
+<a href = "https://twitter.com/thegamer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/ezolbest/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ezoltech"  width="80" height="80" />
+    <img src="https://komarev.com/ghpvc/?username=ezoltech"/>
 </a>
-<a href="https://github.com/ezoltech?tab=followers"><img src="https://img.shields.io/github/followers/ezoltech?label=Followers&style=social" alt="GitHub Badge"  width="80" height="80" /></a>
+<a href="https://github.com/ezoltech?tab=followers"><img src="https://img.shields.io/github/followers/ezoltech?label=Followers&style=social" alt="GitHub Badge" /></a>
