@@ -21,7 +21,6 @@
        <a href="https://reactjs.org/" target="_blank"> <img src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png" width="80" height="80"/> </a>
        <a href="https://developer.android.com/studio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" width="80" height="80"></a>
         <a href="https://docs.flutter.dev/"><img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg width="80" height="80""></a>
-       <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/> </a>
        <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" width="80" height="80"/> </a> 
         <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="80" height="80"/> </a> 
       <a href="https://tailwindcss.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="80" height="80"/></a>
