@@ -50,11 +50,8 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-      <a href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezoltech&theme=transparent&show_icons=true)"></a>
+   <a href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezoltech&theme=transparent&show_icons=true)"></a>
       <a href="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezoltech&theme=transparent&layout=compact&langs_count=10&hide=html,css)"></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
