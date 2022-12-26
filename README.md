@@ -49,9 +49,8 @@
 </p>
 
 ## 📊 My Github Stats
-
-   <a href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezoltech&theme=transparent&show_icons=true)"></a>
-      <a href="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezoltech&theme=transparent&layout=compact&langs_count=10&hide=html,css)"></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezoltech&theme=transparent&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezoltech&theme=transparent&layout=compact&langs_count=10&hide=html,css)
 
 <br/>
 <br/>
