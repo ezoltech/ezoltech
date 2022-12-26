@@ -18,7 +18,7 @@
        <a href="https://www.w3schools.com/css/"><img src="https://gremmedia.hu/storage/app/uploads/public/5eb/e9a/f22/5ebe9af2215a9357125656.png" width="80" height="80"/></a>
        <a href="https://www.w3schools.com/javascript/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="80" height="80"/></a>
         <a href="https://php.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="80" height="80"/></a>
-       <a href="https://reactjs.org/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="80" height="80"/> </a>
+       <a href="https://reactjs.org/" target="_blank"> <img src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png" width="80" height="80"/> </a>
        <a href="https://developer.android.com/studio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" width="80" height="80"></a>
         <a href="https://docs.flutter.dev/"><img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg width="80" height="80""></a>
        <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/> </a>
