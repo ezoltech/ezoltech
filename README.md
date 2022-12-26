@@ -34,7 +34,7 @@
        <a href="https://netbeans.apache.org/download/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" width="80" height="80"/></a>
        <a href="https://visualstudio.microsoft.com/vs/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="80" height="80"/></a>
        <a href="https://www.jetbrains.com/rider/download/"><img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" width="80" height="80"/></a>
-       <a href="https://www.jetbrains.com/pycharm/download/#section=windows"><img src="https://intellij-support.jetbrains.com/hc/user_images/5l0fLOoDkFwpjU_ZKu7Ofg.png"width="80" height="80"/></a>
+       <a href="https://www.jetbrains.com/pycharm/download/#section=windows"><img src="https://ih1.redbubble.net/image.3783345238.0009/st,small,507x507-pad,600x600,f8f8f8.jpg"width="80" height="80"/></a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
