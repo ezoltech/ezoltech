@@ -28,6 +28,7 @@
         <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="80" height="80"/> </a> 
       <a href="https://microsoft.com/learnc#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="80" height="80"/></a>
       <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="80" height="80"/> </a>
+      <hr />
       <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="80" height="80"/> </a> 
        <a href="https://github.com"><img src="https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal-thumbnail.png" width="80" height="80"/></a>
        <a href="https://code.visualstudio.com/download"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="80" height="80"/></a>
