@@ -14,8 +14,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-      <a href="https://www.w3schools.com/html/"><img src="https://banner2.cleanpng.com/20180526/owx/kisspng-html-computer-icons-web-development-bootstrap-5b0a25293828a9.92335899152739152923.jpg" width="80" height="80"/></a>
-       <a href="https://www.w3schools.com/css/"><img src="https://toppng.com//public/uploads/preview/bootstrap-social-media-icons-html-css-js-logo-11563293145uql7yehdq3.png" width="80" height="80"/></a>
+      <a href="https://www.w3schools.com/html/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="80" height="80"/></a>
+       <a href="https://www.w3schools.com/css/"><img src="https://gremmedia.hu/storage/app/uploads/public/5eb/e9a/f22/5ebe9af2215a9357125656.png" width="80" height="80"/></a>
        <a href="https://www.w3schools.com/javascript/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="80" height="80"/></a>
         <a href="https://php.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="80" height="80"/></a>
        <a href="https://reactjs.org/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="80" height="80"/> </a>
@@ -29,7 +29,7 @@
       <a href="https://microsoft.com/learnc#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="80" height="80"/></a>
       <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="80" height="80"/> </a>
       <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="80" height="80"/> </a> 
-       <a href="https://github.com"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="80" height="80"/></a>
+       <a href="https://github.com"><img src="https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal-thumbnail.png" width="80" height="80"/></a>
        <a href="https://code.visualstudio.com/download"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="80" height="80"/></a>
        <a href="https://netbeans.apache.org/download/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" width="80" height="80"/></a>
        <a href="https://visualstudio.microsoft.com/vs/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="80" height="80"/></a>
