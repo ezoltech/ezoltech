@@ -26,6 +26,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezoltech&theme=transparent&show_icons=true)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezoltech&show_icons=true&locale=en&layout=compact" alt="ezoltech" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezoltech&theme=transparent&show_icons=true&locale=en&layout=compact" alt="ezoltech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezoltech&theme=dark" alt="ezoltech" /></p>
