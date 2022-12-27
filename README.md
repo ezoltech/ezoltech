@@ -1,17 +1,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ezra </h1>
 <h3 align="center">A passionate software developer from Ethiopia</h3>
 
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on some Mern stack
+- 🌱 I’m currently learning fullstack web and android development
+- 👯 I’m looking to collaborate on any kinds of tech projects
+- 💬 Ask me about any tech issues
+- 📫 How to reach me: https://t.me/ezoltech
+- 😄 Pronouns: He/Him
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezoltech&label=Profile%20views&color=0e75b6&style=flat" alt="ezoltech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezoltech&theme=juicyfresh" alt="ezoltech" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thegamer" target="blank"><img src="https://img.shields.io/twitter/follow/thegamer?logo=twitter&style=for-the-badge" alt="thegamer" /></a> </p>
 
-- 🔭 I’m currently working on **some Mern stack**
 
-- 🌱 I’m currently learning **fullstack web and android development**
-
-- 👯 I’m looking to collaborate on **any kinds of tech projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
