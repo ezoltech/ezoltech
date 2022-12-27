@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezoltech&show_icons=true&locale=en&layout=compact" alt="ezoltech" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezoltech&" alt="ezoltech" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezoltech&theme=dark" alt="ezoltech" /></p>
