@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezoltech&label=Profile%20views&color=0e75b6&style=flat" alt="ezoltech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezoltech-ma&no-bg=true" alt="ezoltech" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezoltech-bg=true" alt="ezoltech" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thegamer" target="blank"><img src="https://img.shields.io/twitter/follow/thegamer?logo=twitter&style=for-the-badge" alt="thegamer" /></a> </p>
 
