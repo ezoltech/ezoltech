@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/thegamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thegamer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ezra-mammo-09201022b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezra-mammo-09201022b/" height="30" width="40" /></a>
-<a href="https://fb.com/ezramammo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ezramamo" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100081049381616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ezramamo" height="30" width="40" /></a>
 <a href="https://instagram.com/ezolbest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezolbest" height="30" width="40" /></a>
 </p>
 
