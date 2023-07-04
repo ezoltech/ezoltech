@@ -1,8 +1,8 @@
 <h1 align="center">ሰላም / Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Ezra </h1>
 <h3 align="center">A passionate software developer from Ethiopia</h3>
-
+ <img align="right" alt="react-img" width="400" src="<img align="right" alt="react-img" width="400" src="https://lottiefiles.com/6610-react-logo-spinning.gif">
 ## 🙋‍♂️ About Me
-  <img align="right" alt="react-img" width="400" src="<img align="right" alt="react-img" width="400" src="https://lottiefiles.com/6610-react-logo-spinning.gif">
+ 
 
 - 🔭 I’m currently working on some Mern stack
 - 🌱 I’m currently learning fullstack web and android development
