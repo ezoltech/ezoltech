@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on any kinds of tech projects
 - 💬 Ask me about any tech issues
 - 📫 How to reach me: https://t.me/ezoltech
-- 😄 Pronouns: He/Him
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezoltech&label=Profile%20views&color=0e75b6&style=flat" alt="ezoltech" /> </p>
 
