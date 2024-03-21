@@ -21,10 +21,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ezoltech&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️  Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
+### 😂  Meme Of The Day
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
