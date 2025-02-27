@@ -120,9 +120,9 @@
 	</table>
 </div>
 # 📊 GitHub Stats:
-   <p align="center">
+   <p align="left">
          <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ezoltech&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+        <img height="1500em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ezoltech&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
         </p>
 
 ## 🏆 GitHub Trophies
