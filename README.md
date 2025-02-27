@@ -12,7 +12,18 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezolbest) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ezra-mamo-09201022b/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ezoltech) 
+## 🌐 Socials:
+<p>
+  <a href="https://instagram.com/ezolbest">
+    <img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="30" height="30" style="filter: invert(31%) sepia(94%) saturate(1352%) hue-rotate(293deg) brightness(87%) contrast(97%);">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ezra-mamo-09201022b/">
+    <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="filter: invert(29%) sepia(94%) saturate(1642%) hue-rotate(187deg) brightness(96%) contrast(86%);">
+  </a>&nbsp;&nbsp;
+  <a href="https://tiktok.com/@ezoltech">
+    <img src="https://simpleicons.org/icons/tiktok.svg" alt="TikTok" width="30" height="30">
+  </a>
+</p>
 
 # 💻 Tech Stack:
 <div align="center">
