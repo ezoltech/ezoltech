@@ -120,9 +120,10 @@
 	</table>
 </div>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ezoltech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ezoltech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezoltech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+   <p align="center">
+         <br>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ezoltech&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+        </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ezoltech&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
