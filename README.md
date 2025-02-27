@@ -15,10 +15,10 @@
 ## 🌐 Socials:
 <p>
   <a href="https://instagram.com/ezolbest">
-    <img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="30" height="30" style="filter: invert(31%) sepia(94%) saturate(1352%) hue-rotate(293deg) brightness(87%) contrast(97%);">
+    <img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="30" height="30">
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ezra-mamo-09201022b/">
-    <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="filter: invert(29%) sepia(94%) saturate(1642%) hue-rotate(187deg) brightness(96%) contrast(86%);">
+    <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
   </a>&nbsp;&nbsp;
   <a href="https://tiktok.com/@ezoltech">
     <img src="https://simpleicons.org/icons/tiktok.svg" alt="TikTok" width="30" height="30">
