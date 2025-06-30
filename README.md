@@ -130,8 +130,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ezoltech&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+
+
+
+![snake gif](https://github.com/ezoltech/ezoltech/blob/output/github-snake-dark.svg)
+
 ### ✍️  Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+
 
 
 
