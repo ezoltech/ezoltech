@@ -8,7 +8,7 @@
 </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on some Mern stack<br>- 🌱 I’m currently learning fullstack web and android development<br>- 👯 I’m looking to collaborate on any kinds of tech projects<br>- 💬 Ask me about any tech issues<br>- 📫 How to reach me: https://t.me/ezoltech
+- 🔭 I’m currently working on some PERN stack<br>- 🌱 I’m currently learning SAAS<br>- 👯 I’m looking to collaborate on any kinds of tech projects<br>- 💬 Ask me about any tech issues<br>- 📫 How to reach me: https://t.me/ezoltech
 
 
 ## 🌐 Socials:
